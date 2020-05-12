@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 const CTAELEMNT = document.querySelector(".box");
 
@@ -47,6 +48,9 @@ onClick = function alert(lat1, lon1, lat2, lon2, unit ){
   }
 }
 */
+=======
+
+>>>>>>> 86713ddee81d73079d4f723a0c9e6e4715c17ad2
 console.log(alert)
 
 function firstFunction(){
@@ -77,11 +81,16 @@ button.onclick = function move(){
 }
 
  function items(){
+<<<<<<< HEAD
   var stuff = ["coffe" , "milk" , "medicine" , "water"];
+=======
+  var stuff = ["coffee" , " milk" , " medicine" , " water"];
+>>>>>>> 86713ddee81d73079d4f723a0c9e6e4715c17ad2
   var display = stuff.toString();
  document.getElementById("things").innerHTML = display;
 
 }
+<<<<<<< HEAD
 
 
 /*
@@ -92,3 +101,5 @@ numb.push("1 , 5 , 10 , 15 , 20 , 30 , 40 , 50, 60 , 70");
 document.getElementById("push").innerHTML = fruits;
 }
 */
+=======
+>>>>>>> 86713ddee81d73079d4f723a0c9e6e4715c17ad2

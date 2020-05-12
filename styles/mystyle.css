@@ -11,7 +11,18 @@ h1{
 	margin-left: 28%;
 }
 #things{
+<<<<<<< HEAD
 	
+=======
+	margin-top: -30%;
+	margin-left: -100%;
+}
+#down{
+	    margin-bottom: 300px;
+}
+#kast5{
+	    margin-top: -180%;
+>>>>>>> 86713ddee81d73079d4f723a0c9e6e4715c17ad2
 }
 .koht2{
 	padding-right: 10%;
